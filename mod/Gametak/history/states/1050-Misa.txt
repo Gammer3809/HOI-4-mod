@@ -1,0 +1,29 @@
+state = {
+	id = 1050
+	name = "STATE_1050"
+	manpower = 1500000
+	state_category = city
+
+	history = {
+
+		owner = MIH
+		add_core_of = MIH
+		add_core_of = SOV
+		
+		victory_points = { 1821 5 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			anti_air_building = 2
+			1821 = {
+				bunker = 5
+			}
+		}
+	local_supplies = 0.0 
+	}
+	provinces = {
+		1821
+	}
+
+}

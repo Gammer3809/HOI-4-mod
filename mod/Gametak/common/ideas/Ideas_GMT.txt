@@ -1,0 +1,23 @@
+ideas = {
+    country = {
+        GMT_test = {
+            removal_cost = -1
+            allowed = {
+
+            }
+
+            modifier = {
+                stability_factor = -0.50
+                war_support_factor = 0.10
+                surrender_limit = 1.00
+                army_core_attack_factor = 1.50
+                army_core_defence_factor = 1.50
+                training_time_army_factor = -0.50
+                army_defence_factor = 0.15
+                army_attack_factor = 0.15
+                consumer_goods_factor = -0.40
+                non_core_manpower = 0.50
+            }
+        }
+    }
+}

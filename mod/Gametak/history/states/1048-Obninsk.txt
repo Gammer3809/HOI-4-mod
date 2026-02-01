@@ -1,0 +1,29 @@
+state = {
+	id = 1048
+	name = "STATE_1048"
+	manpower = 132477
+	state_category = city
+
+	history = {
+
+		owner = PAT
+		add_core_of = PAT
+		add_core_of = SOV
+		
+		victory_points = { 3263 5 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			anti_air_building = 2
+			3263 = {
+				bunker = 5
+			}
+		}
+	local_supplies = 0.0 
+	}
+	provinces = {
+		3263
+	}
+
+}
