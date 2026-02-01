@@ -1,0 +1,46 @@
+characters = {
+	ISM_Ismail = {
+		name = ISM_Ismail
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Ismail
+			}
+		}
+		country_leader = {
+			ideology = despotism
+		}
+	}
+	ISM_Ismail_1 = {
+		name = ISM_Ismail
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Ismail
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+		}
+	}
+	ISM_Ismail_2 = {
+		name = ISM_Ismail
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Ismail
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+		}
+	}
+	ISM_Ismail_3 = {
+		name = ISM_Ismail
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Ismail
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+		}
+	}
+}

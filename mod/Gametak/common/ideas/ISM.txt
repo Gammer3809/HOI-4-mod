@@ -1,0 +1,64 @@
+ideas = {
+    country = {
+        ISM_small_office = {
+			picture = ISM_small_office
+
+			allowed = {
+				original_tag = ISM
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				army_core_defence_factor = 0.08
+				stability_factor = -0.1
+				production_speed_buildings_factor = -0.15
+			}
+		}
+		ISM_challenging_curriculum = {
+			picture = ISM_challenging_curriculum
+
+			allowed = {
+				original_tag = ISM
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = -0.1
+				research_speed_factor = -0.2
+			}
+		}
+		ISM_esports_achievements = {
+			picture = ISM_esports_achievments
+
+			allowed = {
+				original_tag = ISM
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				war_support_factor = 0.05
+				political_power_factor = 0.15
+				stability_factor = -0.05
+				experience_gain_army_factor = 0.08
+			}
+		}
+    }
+}
