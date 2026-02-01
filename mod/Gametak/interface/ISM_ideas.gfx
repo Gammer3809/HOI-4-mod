@@ -1,0 +1,15 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_idea_ISM_esports_achievments"
+		texturefile = "gfx/interface/ideas/ISM_esports_achievments.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ISM_challenging_curriculum"
+		texturefile = "gfx/interface/ideas/ISM_challenging_curriculum.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ISM_small_office"
+		texturefile = "gfx/interface/ideas/ISM_small_office.dds"
+	}
+}
