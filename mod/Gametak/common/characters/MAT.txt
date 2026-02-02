@@ -1,0 +1,13 @@
+characters = {
+	MAT_Matwey = {
+		name = MAT_Matwey
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Matwey
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+		}
+	}
+}

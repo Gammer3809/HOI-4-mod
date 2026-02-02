@@ -1,0 +1,8 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_portrait_Matwey"
+		texturefile = "gfx/leaders/MAT/MAT_Matwey.dds"
+		legacy_lazy_load = no
+	}
+}

@@ -1,0 +1,14 @@
+characters = {
+	PAT_Denis = {
+		name = PAT_Denis
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Denis
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+		}
+	}
+}
+

@@ -1,11 +1,12 @@
 ideas = {
     country = {
         GMT_test = {
+            picture = GMT_test_pic
             removal_cost = -1
             allowed = {
 
             }
-
+            
             modifier = {
                 stability_factor = -0.50
                 war_support_factor = 0.10

@@ -1,0 +1,9 @@
+
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_portrait_Gammer"
+		texturefile = "gfx/leaders/GMT/GMT_Gammer.dds"
+		legacy_lazy_load = no
+	}
+}

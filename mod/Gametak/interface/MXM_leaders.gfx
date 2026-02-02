@@ -1,0 +1,8 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_portrait_Maxim"
+		texturefile = "gfx/leaders/MXM/MXM_Maxim.dds"
+		legacy_lazy_load = no
+	}
+}

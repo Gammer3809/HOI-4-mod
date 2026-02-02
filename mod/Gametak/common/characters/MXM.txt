@@ -1,0 +1,14 @@
+characters = {
+	MXM_Maxim = {
+		name = MXM_Maxim
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Maxim
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+		}
+	}
+}
+
