@@ -1,0 +1,8 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_portrait_Denis"
+		texturefile = "gfx/leaders/PAT/PAT_Denis.dds"
+		legacy_lazy_load = no
+	}
+}

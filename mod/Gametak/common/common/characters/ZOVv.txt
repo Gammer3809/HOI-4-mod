@@ -1,0 +1,13 @@
+characters = {
+	ZOV_Max = {
+		name = ZOV_Max
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Max
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+		}
+	}
+}

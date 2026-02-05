@@ -1,0 +1,29 @@
+state = {
+	id = 1049
+	name = "STATE_1049"
+	manpower = 2570000
+	state_category = city
+
+	history = {
+
+		owner = MAT
+		add_core_of = MAT
+		add_core_of = SOV
+		
+		victory_points = { 413 5 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 6
+			anti_air_building = 2
+			413 = {
+				bunker = 5
+			}
+		}
+	}
+	provinces = {
+		413
+	}
+
+}

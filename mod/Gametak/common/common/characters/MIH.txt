@@ -1,0 +1,14 @@
+characters = {
+	MIH_Mihail = {
+		name = MIH_Mihail
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Mihail
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+		}
+	}
+}
+

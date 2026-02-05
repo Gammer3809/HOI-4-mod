@@ -1,0 +1,7 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_idea_GMT_test_pic"
+		texturefile = "gfx/interface/ideas/GMT_test_pic.dds"
+	}
+}

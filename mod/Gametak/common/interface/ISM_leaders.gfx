@@ -1,0 +1,8 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_portrait_Ismail"
+		texturefile = "gfx/leaders/ISM/ISM_Ismail.dds"
+		legacy_lazy_load = no
+	}
+}

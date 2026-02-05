@@ -1,0 +1,13 @@
+characters = {
+	GMT_Gammer = {
+		name = GMT_Gammer
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Gammer
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+		}
+	}
+}

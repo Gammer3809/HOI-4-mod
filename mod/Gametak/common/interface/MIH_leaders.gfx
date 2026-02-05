@@ -1,0 +1,8 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_portrait_Mihail"
+		texturefile = "gfx/leaders/MIH/MIH_Mihail.dds"
+		legacy_lazy_load = no
+	}
+}

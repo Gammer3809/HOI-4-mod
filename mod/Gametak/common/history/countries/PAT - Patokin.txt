@@ -1,0 +1,36 @@
+capital = 1048 ##Наша столица
+
+oob = "PAT_1936" ##GEG - Тег, заменить
+
+set_research_slots = 3 #Количество ячеек исследования
+
+
+recruit_character = PAT_Denis
+
+set_technology = {
+	infantry_weapons = 1
+	tech_trucks = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+	ruling_party = fascism ##Рулевая партия
+	last_election = "1936.1.1" ##Последние выборы (если есть)
+	election_frequency = 48 ##Через сколько проводят выборы
+	elections_allowed = no ##Есть ли выборы
+}
+
+set_popularities = {
+	democratic = 5  ##Демократия
+	neutrality = 5 ##Нейтралитет
+	communism = 30 ##Коммунизм
+	fascism = 60 ##Фашизм
+}
+
+add_ideas = {
+	GMT_test
+}
+
+set_stability = 0.4
+set_war_support = 0.6
